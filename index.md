@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Pao.Academy
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Your Path to Building Production-Ready AI. From prepping and cleaning your data, to crafting a powerful network, efficient training, and seamless deployment – we've got your journey from concept to production covered.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Your Path to Building Production-Ready AI.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+From prepping and cleaning your data, to crafting a powerful network, efficient training, and seamless deployment – we've got your journey from concept to production covered.
